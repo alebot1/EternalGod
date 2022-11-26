@@ -1,0 +1,2 @@
+# EternalGod
+Bot para wsp
